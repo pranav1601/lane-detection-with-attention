@@ -9,3 +9,7 @@
 * you can access the output videos [here](https://drive.google.com/file/d/1Vjg4G92qZaNwPObSyxzSXnLtLEDfqt3j/view?usp=sharing)
 
 * You can view a detailed explanation of my algorithm on [medium](https://medium.com/@pranav.agarw/lane-detection-for-autonomous-driving-using-attention-5f2798c4ab61).
+
+![working model](output_collated_video.gif)
+
+![data pipeline](output1.png)
